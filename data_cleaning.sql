@@ -1,4 +1,5 @@
 -- Data Cleaning 
+-- We aim to clean the entire dataset. 
 
 -- First we created a new schema called 'world_layoffs'
 -- Next we imported the table data set in to the schema using import table wizard. (csv or json)
